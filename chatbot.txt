@@ -1,0 +1,55 @@
+Merhaba arkadaşlar bu yazımda veri bilimi nedir, neden veri bilimi öğrenmeliyiz ve veri bilimi hangi aşamalardan oluşur bu konulara değineceğim.
+
+Veri Bilimi Nedir ?
+VERİ BİLİMİ, çeşitli bilimsel yöntemler, algoritmalar ve süreçler kullanılarak büyük miktarda veriden içgörüler elde etmeyi içeren çalışma alanıdır. Ham verilerden gizli kalıpları keşfetmenize yardımcı olur. Veri Bilimi terimi, matematiksel istatistiklerin, veri analizinin ve büyük verinin evrimi nedeniyle ortaya çıkmıştır.
+
+Veri Bilimi, yapılandırılmış veya yapılandırılmamış verilerden bilgi çıkarmanıza olanak tanıyan disiplinler arası bir alandır. Veri bilimi, bir iş problemini bir araştırma projesine çevirmenize ve ardından tekrar pratik bir çözüme çevirmenize olanak tanır.
+
+Neden Veri Bilimi ?
+Veri Analitiği Teknolojisini kullanmanın önemli avantajları şunlardır:
+
+– Veriler, günümüz dünyasının petrolüdür. Doğru araçlar, teknolojiler, algoritmalar ile verileri kullanabilir ve verileri ayırt edici bir iş avantajına dönüştürebiliriz.
+– Veri bilimi, gelişmiş makine öğrenimi algoritmalarını kullanarak sahtekarlığı tespit etmenize yardımcı olabilir
+– Önemli parasal kayıpları önlemenize yardımcı olur.
+– Makinelerde zeka yeteneği oluşturmaya izin verir.
+– Müşteri marka bağlılığını ölçmek için duyarlılık analizi yapabilirsiniz.
+– Daha iyi ve daha hızlı kararlar almanızı sağlar.
+– İşletmenizi geliştirmek için doğru ürünü doğru müşteriye önermenize yardımcı olur.
+
+Veri Bilimi Bileşenleri Nelerdir ?
+1) İstatistik
+İstatistik, Veri bilimindeki en kritik birimdir. Yararlı içgörüler elde etmek için büyük miktarlarda sayısal verileri toplama ve analiz etme yöntemi veya bilimidir.
+
+2) Görselleştirme
+Görselleştirme tekniği, anlaşılması kolay görsellerle büyük miktarda veriye erişmenize yardımcı olur.
+
+3) Makine Öğrenimi
+Makine Öğrenimi, öngörülemeyen gelecekteki veriler hakkında tahminler yapmayı öğrenen algoritmaların oluşturulmasını ve incelenmesini araştırır.
+
+4) Derin Öğrenme
+Derin Öğrenme yöntemi, algoritmanın izlenecek analiz modelini seçtiği yeni makine öğrenimi araştırmasıdır.
+
+Veri Bilimi İşlem Adımları
+
+KEŞİF
+Keşif adımı, iş sorusunu cevaplamanıza yardımcı olan, tanımlanmış tüm iç ve dış kaynaklardan veri almayı içerir.
+Veriler şunlar olabilir:
++Web sunucularından günlükler
++Sosyal medyadan toplanan veriler
++Sayım veri kümeleri
++API’ler kullanılarak çevrimiçi kaynaklardan veri akışı
+
+VERİNİN HAZIRLANMASI
+Veriler, eksik değer, boş sütunlar, yanlış veri formatı gibi temizlenmesi gereken birçok tutarsızlık içerebilir. Modellemeden önce verileri işlemeniz, keşfetmeniz ve koşullandırmanız gerekir. Verileriniz ne kadar temiz olursa tahminleriniz o kadar iyi olur.
+
+MODELİN PLANLANMASI
+Bu aşamada, girdi değişkenleri arasındaki ilişkiyi çizmek için yöntem ve tekniği belirlemeniz gerekir. Bir model için planlama, farklı istatistiksel formüller ve görselleştirme araçları kullanılarak gerçekleştirilir. SQL analiz hizmetleri ve R, bu amaçla kullanılan araçlardan bazılarıdır.
+
+MODEL OLUŞTURMA
+Bu adımda gerçek model oluşturma süreci başlar. Veri bilimcisi burada eğitim ve test için veri kümelerini dağıtır. İlişkilendirme, sınıflandırma ve kümeleme gibi teknikler eğitim veri setine uygulanır. Model bir kez hazırlandıktan sonra “test” veri kümesine karşı test edilir.
+
+FAALİYETE GEÇİRME
+Bu aşamada, nihai temel alınan modeli raporlar, kod ve teknik belgelerle teslim edersiniz. Model, kapsamlı bir testten sonra gerçek zamanlı bir üretim ortamına yerleştirilir.
+
+SONUÇLARIN İLETİMİ
+Bu aşamada, temel bulgular tüm paydaşlara iletilir. Bu, modelden gelen girdilere dayalı olarak proje sonuçlarının başarılı mı yoksa başarısız mı olduğuna karar vermenize yardımcı olur.
